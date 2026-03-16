@@ -80,17 +80,6 @@ Every conversation first passes through the `FindPolicyCopy` topic, which uses a
 
 ---
 
-## Agent Settings
-
-| Setting | Value |
-|---|---|
-| Generative Actions | Enabled |
-| Semantic Search | Enabled |
-| File Analysis | Disabled |
-| Web Browsing | Disabled |
-| Code Interpreter | Disabled |
-| Content Moderation | High |
-| Recognizer | Generative AI Recognizer |
 
 ---
 
